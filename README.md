@@ -150,10 +150,3 @@ PDF processing
 Streamlit app development
 API integration
 Prompt engineering
-
-Author
-
-Nadeem Ur Rehman
-AI and Data Science Graduate
-
-GitHub: @sardarnadeem92
