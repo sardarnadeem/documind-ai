@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+mistralai
+pypdf
+chromadb
+sentence-transformers
+torchvision
+
+
+
